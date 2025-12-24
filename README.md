@@ -7,7 +7,7 @@ Hi there! I'm Bhavya, a **MERN Stack Developer** pursuing BTech in Computer Engi
 
 **🚀 Skills at a Glance:**<br>
 - **MERN Stack Development** (MongoDB, Express.js, React.js, Node.js)  
-- Database Management: MongoDB, PostgreSQL, Supabase  
+- Database Management: MongoDB, PostgreSQL, NeonDB  
 - Problem Solving & Algorithm Design  
 
 ---
