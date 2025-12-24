@@ -42,9 +42,9 @@ Hi there! I'm Bhavya, a **MERN Stack Developer** pursuing BTech in Computer Engi
   ```React.js | Node.js | Redis```  
   Built an advanced analytics platform that helps developers track coding activity, visualize progress, and gain insights with interactive dashboards and reports.
 
-- #### WeatherDashboard - Real-Time Weather App  
-  ```HTML | CSS | API | JS```  
-  Developed a weather dashboard that provides real-time weather updates, forecasts, and visualized climate data with an intuitive and responsive UI.
+- #### Rebyte- Advanced URL shortner  
+  ```ReactJs| NodeJS | ExpressJS | MongoDB```  
+  Rebyte is a full-stack URL management platform designed not just to shorten links, but to provide granular analytics on user engagement. It features real-time tracking of click data, including geo-location,    device types, and operating systems, visualized through an interactive dashboard.
 
 ---
 
